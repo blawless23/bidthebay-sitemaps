@@ -1,0 +1,104 @@
+<!--
+  Bid the Bay - canonical fix for duplicate project-detail routes
+  ---------------------------------------------------------------------------
+  Paste into Softr: Settings -> Custom Code -> Header (site-wide).
+  Keep any existing header code; add this below it.
+
+  THE PROBLEM
+  Softr renders every project under three routes, and each one emits a
+  canonical tag pointing at itself:
+
+    /construction-project-details/<slug>/r/<recordId>
+    /professional-services-project-details/<slug>/r/<recordId>
+    /project-details/<slug>/r/<recordId>
+
+  Google therefore sees three separate pages per project and picks a winner on
+  its own - sometimes the wrong category.
+
+  WHAT THIS DOES
+  On a project-detail page it works out the one correct route for that record
+  and, if the current URL is not it, rewrites rel=canonical (and og:url) to
+  point at the correct URL. That is the right tool for true duplicates: it
+  consolidates the pages rather than deleting them, so nothing is lost.
+
+  It deliberately does NOT add noindex. Google's guidance is to use one signal
+  or the other, not both, and canonical is the correct one here.
+
+  SAFETY
+  - Runs only on project-detail URLs; every other page is untouched.
+  - If the lookup file cannot be fetched, it does nothing at all. A network
+    failure can never leave a page with a wrong canonical.
+  - Records with no canonical URL (the three Supplier ones) are left alone
+    rather than guessed at.
+  - Pages with a correct canonical are left completely untouched.
+-->
+<script>
+(function () {
+  'use strict';
+
+  var MAP_URL = 'https://sitemaps.bidthebay.com/canonical-map.json';
+  var ORIGIN = 'https://www.bidthebay.com';
+
+  var ROUTES = {
+    construction: 'construction-project-details',
+    professional: 'professional-services-project-details'
+  };
+
+  // /<route>/<slug>/r/<recordId>
+  var DETAIL = /^\/(construction-project-details|professional-services-project-details|project-details)\/([^/]+)\/r\/(rec[A-Za-z0-9]{14})\/?$/;
+
+  function apply(map) {
+    var m = DETAIL.exec(window.location.pathname);
+    if (!m) return;
+
+    var slug = m[2];
+    var recordId = m[3];
+
+    // No canonical URL exists for excluded records - leave the page as it is.
+    if (map.excluded && map.excluded.indexOf(recordId) !== -1) return;
+
+    var route = (map.ps && map.ps.indexOf(recordId) !== -1)
+      ? ROUTES.professional
+      : ROUTES.construction;
+
+    var correct = ORIGIN + '/' + route + '/' + slug + '/r/' + recordId;
+    if (correct === ORIGIN + window.location.pathname.replace(/\/$/, '')) return;
+
+    var link = document.querySelector('link[rel="canonical"]');
+    if (!link) {
+      link = document.createElement('link');
+      link.setAttribute('rel', 'canonical');
+      document.head.appendChild(link);
+    }
+    link.setAttribute('href', correct);
+
+    var og = document.querySelector('meta[property="og:url"]');
+    if (og) og.setAttribute('content', correct);
+  }
+
+  function run() {
+    // Bail out early on non-detail pages so we never fetch needlessly.
+    if (!DETAIL.test(window.location.pathname)) return;
+
+    fetch(MAP_URL, { cache: 'force-cache' })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (map) { if (map) apply(map); })
+      .catch(function () { /* fail silently - never make the page worse */ });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', run);
+  } else {
+    run();
+  }
+
+  // Softr navigates client-side, so re-check when the path changes.
+  var lastPath = window.location.pathname;
+  setInterval(function () {
+    if (window.location.pathname !== lastPath) {
+      lastPath = window.location.pathname;
+      run();
+    }
+  }, 500);
+})();
+</script>

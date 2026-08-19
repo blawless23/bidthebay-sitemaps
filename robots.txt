@@ -1,0 +1,5 @@
+# This host serves only sitemap files for https://www.bidthebay.com
+# The sitemaps themselves must stay crawlable; the two internal files do not.
+User-agent: *
+Disallow: /reconciliation.csv
+Disallow: /manifest.json
