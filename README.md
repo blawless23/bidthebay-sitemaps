@@ -1,0 +1,1 @@
+# bidthebay-sitemaps
