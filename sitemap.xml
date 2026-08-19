@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://sitemaps.bidthebay.com/sitemap-construction.xml</loc>
+    <lastmod>2026-08-19T00:08:40-07:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://sitemaps.bidthebay.com/sitemap-professional-services.xml</loc>
+    <lastmod>2026-08-19T00:04:36-07:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://sitemaps.bidthebay.com/sitemap-static.xml</loc>
+    <lastmod>2026-08-19T04:40:49-07:00</lastmod>
+  </sitemap>
+</sitemapindex>
