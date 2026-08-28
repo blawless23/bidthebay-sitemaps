@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-27T21:17:25.521Z",
+  "generatedAt": "2026-08-28T21:15:57.896Z",
   "urlCount": 2190,
   "report": {
-    "startedAt": "2026-08-27T21:17:25.521Z",
-    "finishedAt": "2026-08-27T21:17:28.003Z",
+    "startedAt": "2026-08-28T21:15:57.896Z",
+    "finishedAt": "2026-08-28T21:16:00.177Z",
     "totalAirtableRecords": 2193,
     "includedUrls": 2190,
     "constructionUrls": 1832,
@@ -14,9 +14,9 @@
       "unsupported_party_type": 3
     },
     "multiCategoryExceptions": 60,
-    "addedUrls": 8,
-    "removedUrls": 1,
-    "previousUrlCount": 2183,
+    "addedUrls": 0,
+    "removedUrls": 0,
+    "previousUrlCount": 2190,
     "validationFailures": [],
     "published": false
   },
