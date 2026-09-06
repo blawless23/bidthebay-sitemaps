@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-05T21:15:43.539Z",
+  "generatedAt": "2026-09-06T21:17:50.184Z",
   "urlCount": 2284,
   "report": {
-    "startedAt": "2026-09-05T21:15:43.539Z",
-    "finishedAt": "2026-09-05T21:15:45.880Z",
+    "startedAt": "2026-09-06T21:17:50.184Z",
+    "finishedAt": "2026-09-06T21:17:52.518Z",
     "totalAirtableRecords": 2287,
     "includedUrls": 2284,
     "constructionUrls": 1908,
@@ -14,9 +14,9 @@
       "unsupported_party_type": 3
     },
     "multiCategoryExceptions": 63,
-    "addedUrls": 4,
-    "removedUrls": 0,
-    "previousUrlCount": 2280,
+    "addedUrls": 2,
+    "removedUrls": 2,
+    "previousUrlCount": 2284,
     "validationFailures": [],
     "published": false
   },
@@ -237,7 +237,7 @@
     "https://www.bidthebay.com/construction-project-details/patterson-house-roof-replacement-project-city-of-fremont/r/rec6IVUaJezBRsnqt",
     "https://www.bidthebay.com/professional-services-project-details/balfour-road-wastewater-rehabilitation-project-city-of-brentwood/r/rec6IXzPTLOGgI7h4",
     "https://www.bidthebay.com/construction-project-details/cccfpd-on-call-district-wide-masonry-wall-installation-and-repair-work-contra-costa-county/r/rec6L4PtagVnwPkN3",
-    "https://www.bidthebay.com/construction-project-details/sharks-way-and-north-almaden-blvd-streetlighting-improvements-city-of-san-jose/r/rec6Lq2oTHwcyCJ2G",
+    "https://www.bidthebay.com/construction-project-details/rejected-sharks-way-and-north-almaden-blvd-streetlighting-improvements-city-of-san-jose/r/rec6Lq2oTHwcyCJ2G",
     "https://www.bidthebay.com/construction-project-details/water-damage-repairs-at-703-and-711-atlantic-ave-housing-authority-of-the-city-of-alameda/r/rec6OFwhnnkWqS2Wm",
     "https://www.bidthebay.com/construction-project-details/force-main-assessment-civil-work-west-county-wastewater-district/r/rec6OdWfw8xrvBsnM",
     "https://www.bidthebay.com/construction-project-details/india-basin-signage-city-and-county-of-san-francisco/r/rec6OvG7sW79gvwY4",
@@ -1759,7 +1759,7 @@
     "https://www.bidthebay.com/construction-project-details/annual-street-resurfacing-2026-slurry-seal-parking-lot-improvements-project-city-of-dublin/r/reckfOCzGVsuy1JhH",
     "https://www.bidthebay.com/construction-project-details/redwood-road-mpm-2-3-slide-repair-county-of-napa/r/reckfwG8Ke2OZAsZq",
     "https://www.bidthebay.com/construction-project-details/parking-access-revenue-and-control-systems-parcs-replacement-project-san-francisco-international-airport-sfo/r/reckjfKxQbApi62kV",
-    "https://www.bidthebay.com/professional-services-project-details/precast-ada-accessible-stops-city-and-county-of-san-francisco/r/reckk5ksSSPrcSaeM",
+    "https://www.bidthebay.com/professional-services-project-details/precast-ada-accessible-stops-san-francisco-municipal-transit-agency/r/reckk5ksSSPrcSaeM",
     "https://www.bidthebay.com/professional-services-project-details/on-call-architectural-engineering-services-environmental-planning-services-contra-costa-county/r/recklpd7IqNcuw6pT",
     "https://www.bidthebay.com/construction-project-details/replace-pier-waterline-shore-connections-on-coast-guard-island-us-coast-guard/r/recklvz2ziCH9XTKg",
     "https://www.bidthebay.com/construction-project-details/sign-striping-maintenance-project-ph-7-11-city-of-alameda/r/reckp3zVwaoCiAzSB",
