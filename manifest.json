@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-07T16:50:07.044Z",
+  "generatedAt": "2026-09-07T17:17:05.438Z",
   "urlCount": 1892,
   "report": {
-    "startedAt": "2026-09-07T16:50:07.044Z",
-    "finishedAt": "2026-09-07T16:50:11.104Z",
+    "startedAt": "2026-09-07T17:17:05.438Z",
+    "finishedAt": "2026-09-07T17:17:09.258Z",
     "totalAirtableRecords": 2287,
     "includedUrls": 1892,
     "constructionOpen": 200,
@@ -37,11 +37,12 @@
       "Results posted but no winner": 1
     },
     "seoFlagUpdatesQueued": 158,
+    "seoFlagChoicesMissingFromField": {},
     "seoFlagFieldPresent": true,
     "seoFlagFieldName": "SEO:Flag",
-    "addedUrls": 73,
+    "addedUrls": 0,
     "removedUrls": 0,
-    "previousUrlCount": 1819,
+    "previousUrlCount": 1892,
     "missingRequiredFields": [],
     "validationFailures": [],
     "published": false
