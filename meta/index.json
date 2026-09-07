@@ -1,0 +1,1 @@
+{"generatedAt":"2026-09-07T16:30:55.508Z","shards":16,"algo":"h=(h*31+charCode)>>>0; h%16"}
