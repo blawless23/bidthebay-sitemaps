@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T02:29:28.556Z",
+  "generatedAt": "2026-09-10T02:44:15.883Z",
   "urlCount": 1871,
   "report": {
-    "startedAt": "2026-09-10T02:29:28.556Z",
-    "finishedAt": "2026-09-10T02:29:32.338Z",
+    "startedAt": "2026-09-10T02:44:15.883Z",
+    "finishedAt": "2026-09-10T02:44:20.078Z",
     "totalAirtableRecords": 2300,
     "includedUrls": 1871,
     "constructionOpen": 194,
@@ -11,8 +11,8 @@
     "professionalOpen": 43,
     "professionalResults": 254,
     "staticUrls": 10,
-    "agencyUrls": 0,
-    "agencyPagesLive": false,
+    "agencyUrls": 280,
+    "agencyPagesLive": true,
     "legacySitemapsWritten": true,
     "excludedRecords": 429,
     "exclusionsByReason": {
@@ -37,13 +37,13 @@
       "Unroutable party type": 3,
       "Results posted but no winner": 1
     },
-    "seoFlagUpdatesQueued": 11,
+    "seoFlagUpdatesQueued": 0,
     "seoFlagChoicesMissingFromField": {},
     "seoFlagFieldPresent": true,
     "seoFlagFieldName": "SEO:Flag",
     "addedUrls": 0,
-    "removedUrls": 10,
-    "previousUrlCount": 1881,
+    "removedUrls": 0,
+    "previousUrlCount": 1871,
     "missingRequiredFields": [],
     "validationFailures": [],
     "published": false
