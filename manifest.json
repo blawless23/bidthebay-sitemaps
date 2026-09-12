@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-12T21:17:51.388Z",
+  "generatedAt": "2026-09-12T23:39:30.934Z",
   "urlCount": 1903,
   "report": {
-    "startedAt": "2026-09-12T21:17:51.388Z",
-    "finishedAt": "2026-09-12T21:17:55.412Z",
+    "startedAt": "2026-09-12T23:39:30.934Z",
+    "finishedAt": "2026-09-12T23:39:34.990Z",
     "totalAirtableRecords": 2329,
     "includedUrls": 1903,
     "constructionOpen": 176,
@@ -36,7 +36,7 @@
       "Unroutable party type": 3,
       "Results posted but no winner": 2
     },
-    "seoFlagUpdatesQueued": 10,
+    "seoFlagUpdatesQueued": 0,
     "seoFlagChoicesMissingFromField": {},
     "seoFlagFieldPresent": true,
     "seoFlagFieldName": "SEO:Flag",
