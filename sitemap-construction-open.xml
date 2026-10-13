@@ -173,10 +173,6 @@
     <lastmod>2026-10-11T22:11:19-07:00</lastmod>
   </url>
   <url>
-    <loc>https://www.bidthebay.com/construction-project-details/cm-contractor-1500-owens-mr-imaging-expansion-san-francisco/r/recgpr2snCZ5yJLD6</loc>
-    <lastmod>2026-09-22T09:38:01-07:00</lastmod>
-  </url>
-  <url>
     <loc>https://www.bidthebay.com/construction-project-details/coliseum-station-elevator-modernization-oakland/r/recWOIqrcXHzEs2Vz</loc>
     <lastmod>2026-09-25T21:44:30-07:00</lastmod>
   </url>
@@ -262,7 +258,11 @@
   </url>
   <url>
     <loc>https://www.bidthebay.com/construction-project-details/fs-zellerbach-hall-mezzanine-flooring-replacement-rebid-uc-berkeley/r/recC1yoorxyJI0lS5</loc>
-    <lastmod>2026-09-22T22:34:22-07:00</lastmod>
+    <lastmod>2026-10-12T23:24:56-07:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bidthebay.com/construction-project-details/fy-2027-citywide-park-pathways-resurfacing-ada-access-newark/r/recoh7O6asPa83yqa</loc>
+    <lastmod>2026-10-12T23:20:16-07:00</lastmod>
   </url>
   <url>
     <loc>https://www.bidthebay.com/construction-project-details/fy-26-27-pavement-preventative-maintenance-airport-petaluma/r/recH7cSyZEcxFqAtL</loc>
@@ -406,7 +406,7 @@
   </url>
   <url>
     <loc>https://www.bidthebay.com/construction-project-details/naf-dhw-heat-exchanger-replacement-berkeley/r/recukCHnDnqL0uBus</loc>
-    <lastmod>2026-10-09T22:23:52-07:00</lastmod>
+    <lastmod>2026-10-12T23:26:41-07:00</lastmod>
   </url>
   <url>
     <loc>https://www.bidthebay.com/construction-project-details/nbr-potable-water-reservoirs-cleaning-inspection-fairfield/r/recKgBOIXLS9holxh</loc>
@@ -443,6 +443,10 @@
   <url>
     <loc>https://www.bidthebay.com/construction-project-details/on-call-maintenance-minor-infrastructure-repair-livermore/r/recnu3Ye0A2Gzwigf</loc>
     <lastmod>2026-10-02T23:34:31-07:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bidthebay.com/construction-project-details/on-call-mechanical-maintenance-services-san-jose/r/rechcso8nYdirehxn</loc>
+    <lastmod>2026-10-12T23:05:26-07:00</lastmod>
   </url>
   <url>
     <loc>https://www.bidthebay.com/construction-project-details/open-road-tolling-system-for-the-bay-area-toll-bridges-metropolitan-transportation-commission/r/recAg1w84q89poKBw</loc>
@@ -546,7 +550,7 @@
   </url>
   <url>
     <loc>https://www.bidthebay.com/construction-project-details/railroad-signal-inspections-testing-maintenance-various/r/recuVxgmG8yqxUhv9</loc>
-    <lastmod>2026-10-08T02:27:04-07:00</lastmod>
+    <lastmod>2026-10-12T23:27:30-07:00</lastmod>
   </url>
   <url>
     <loc>https://www.bidthebay.com/construction-project-details/railroad-timber-bridge-replacements-basalt-creek-san-novato/r/recyPs4LVYNmWyYZt</loc>
@@ -575,10 +579,6 @@
   <url>
     <loc>https://www.bidthebay.com/construction-project-details/rhma-gap-graded-cold-plane-ac-pavement-hfst-el-cerrito/r/recutwZUKhf6PX2uX</loc>
     <lastmod>2026-09-18T07:44:38-07:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bidthebay.com/construction-project-details/roof-removal-and-replacement-services-walnut-creek/r/recBnIsjfKviLjJ0u</loc>
-    <lastmod>2026-09-29T22:58:15-07:00</lastmod>
   </url>
   <url>
     <loc>https://www.bidthebay.com/construction-project-details/san-andreas-hs-carlisle-building-roof-replacement-larkspur/r/recKmZVaB5zpZcDZo</loc>
@@ -737,14 +737,6 @@
     <lastmod>2026-10-03T23:48:06-07:00</lastmod>
   </url>
   <url>
-    <loc>https://www.bidthebay.com/construction-project-details/ucsf-health-helen-diller-hospital-window-san-francisco/r/recFgGmQp0kroTXMs</loc>
-    <lastmod>2026-10-06T06:19:44-07:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bidthebay.com/construction-project-details/vacant-turnover-preparations-project-housing-authority-of-the-county-of-contra-costa/r/recLpt2Fv0wofdQaa</loc>
-    <lastmod>2026-10-07T20:25:18-07:00</lastmod>
-  </url>
-  <url>
     <loc>https://www.bidthebay.com/construction-project-details/vallejo-ferry-terminal-reconfiguration-project-vallejo/r/recKvUiPjONv6LgdX</loc>
     <lastmod>2026-10-11T22:00:45-07:00</lastmod>
   </url>
@@ -767,5 +759,9 @@
   <url>
     <loc>https://www.bidthebay.com/construction-project-details/wrrf-west-substation-transformer-repair-hayward/r/recyKYbAvzeMwKKL3</loc>
     <lastmod>2026-10-11T23:33:16-07:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bidthebay.com/construction-project-details/wwtp-electrical-improvements-phase-1-pleasanton/r/recLdQ6TxYizNj5Zg</loc>
+    <lastmod>2026-10-12T23:16:37-07:00</lastmod>
   </url>
 </urlset>
