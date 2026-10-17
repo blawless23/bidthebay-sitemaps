@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-10-16T21:16:00.264Z",
-  "urlCount": 1929,
+  "generatedAt": "2026-10-17T21:16:23.336Z",
+  "urlCount": 1926,
   "report": {
-    "startedAt": "2026-10-16T21:16:00.264Z",
-    "finishedAt": "2026-10-16T21:16:05.247Z",
+    "startedAt": "2026-10-17T21:16:23.336Z",
+    "finishedAt": "2026-10-17T21:16:28.236Z",
     "totalAirtableRecords": 2606,
-    "includedUrls": 1929,
-    "constructionOpen": 172,
-    "constructionResults": 1446,
-    "professionalOpen": 63,
-    "professionalResults": 248,
+    "includedUrls": 1926,
+    "constructionOpen": 164,
+    "constructionResults": 1451,
+    "professionalOpen": 59,
+    "professionalResults": 252,
     "staticUrls": 10,
     "agencyUrls": 279,
     "agencyPagesLive": true,
     "legacySitemapsWritten": true,
-    "excludedRecords": 677,
+    "excludedRecords": 680,
     "exclusionsByReason": {
-      "closed_stale_no_results": 674,
+      "closed_stale_no_results": 677,
       "unsupported_party_type": 3
     },
     "inclusionsByReason": {
-      "recently_closed": 831,
+      "recently_closed": 839,
       "award_results": 821,
-      "open_solicitation": 223,
+      "open_solicitation": 212,
       "multi_category_provisional_construction": 54
     },
     "multiCategoryExceptions": 54,
     "slugLengths": {
       "median": 68,
       "max": 269,
-      "over80": 588
+      "over80": 586
     },
     "seoFlagCounts": {
       "No description at all": 153,
       "Unroutable party type": 4,
-      "Open but due date passed": 5,
-      "Results posted but no winner": 2
+      "Results posted but no winner": 2,
+      "Open but due date passed": 1
     },
-    "seoFlagUpdatesQueued": 21,
+    "seoFlagUpdatesQueued": 6,
     "seoFlagChoicesMissingFromField": {},
     "seoFlagFieldPresent": true,
     "seoFlagFieldName": "SEO:Flag",
-    "addedUrls": 16,
-    "removedUrls": 0,
-    "previousUrlCount": 1913,
+    "addedUrls": 0,
+    "removedUrls": 3,
+    "previousUrlCount": 1929,
     "missingRequiredFields": [],
     "validationFailures": [],
     "published": false
@@ -496,7 +496,6 @@
     "https://www.bidthebay.com/professional-services-project-details/architectural-design-services-for-facility-improvement-projects-san-mateo-county-office-of-education/r/recEX9l3YPrwy9lbK",
     "https://www.bidthebay.com/construction-project-details/chp-hayward-area-office-roof-maintenance-services-california-highway-patrol/r/recEaNPxOXeLndOHi",
     "https://www.bidthebay.com/construction-project-details/on-call-contract-for-construction-projects-2026-2028-las-gallinas-valley-sanitary-district/r/recEdidmjouIk3JbB",
-    "https://www.bidthebay.com/construction-project-details/montebello-vista-park-revitalization-project-city-of-suisun-city/r/recEfs4ZrKh2OWPxc",
     "https://www.bidthebay.com/construction-project-details/wool-creek-pip-replacement-rebid-santa-clara-county-office-of-education/r/recEjLWMI4kVsL48D",
     "https://www.bidthebay.com/construction-project-details/citywide-striping-phase-1-city-of-napa/r/recEjf0u71gU6zyV2",
     "https://www.bidthebay.com/construction-project-details/lagunitas-creek-coho-habitat-enhancement-project-phase-1c-marin-water/r/recEkBWlaivb5RAFR",
@@ -1836,7 +1835,6 @@
     "https://www.bidthebay.com/construction-project-details/ucb-ehcp-increment-3-wp-07-thermal-energy-storage-tank-uc-berkeley/r/recvZNmmsWtMRpcPx",
     "https://www.bidthebay.com/construction-project-details/wrrf-effluent-return-pump-station-project-city-of-hayward/r/recvaYn8lFoYkNEEc",
     "https://www.bidthebay.com/professional-services-project-details/engineering-design-service-for-sewer-rehabilitation-city-of-alameda/r/recvbQMNDWq5cwCWp",
-    "https://www.bidthebay.com/construction-project-details/canceled-security-gates-for-police-department-civic-center-fire-department-and-corporation-yard-project-city-of-suisun-city/r/recvdjyyA89TrhcDa",
     "https://www.bidthebay.com/construction-project-details/point-reyes-petaluma-at-nicasio-valley-road-turn-pocket-county-of-marin/r/recvk505gC77axoKu",
     "https://www.bidthebay.com/construction-project-details/backflow-replacement-and-repairs-dublin/r/recvlV0fgL9dOYI1q",
     "https://www.bidthebay.com/construction-project-details/roof-repairs-at-pad-department-of-veterans-affairs/r/recvnld36myX2pQgo",
@@ -1975,7 +1973,6 @@
     "https://www.bidthebay.com/construction-project-details/2025-concrete-reconstruction-project-city-of-cupertino/r/reczfhkxbHhLJ8M0F",
     "https://www.bidthebay.com/professional-services-project-details/construction-management-services-for-giant-road-bridge-repair-project-giant-road-pavement-rehabilitation-city-of-san-pablo/r/reczna0G0LJ7Xk1Nx",
     "https://www.bidthebay.com/construction-project-details/electrical-maintenance-and-repair-services-cal-trans-district-4/r/recznfKV1urmvOwls",
-    "https://www.bidthebay.com/construction-project-details/electrical-replacement-phase-2-suisun-pump-station-fairfield-suisun-sewer-district/r/reczqCMiqGU3JTNaA",
     "https://www.bidthebay.com/construction-project-details/mission-bay-ecdc-bp-1-2-electrical-university-of-california-san-francisco/r/reczw0uBaGkvapXR3",
     "https://www.bidthebay.com/construction-project-details/cold-plane-ac-pavement-place-hma-type-a-rhma-gap-graded-cal-trans-district-4/r/reczzpVcq66BKa1aj"
   ]
