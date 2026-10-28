@@ -269,10 +269,6 @@
     <lastmod>2026-09-10T08:51:49-07:00</lastmod>
   </url>
   <url>
-    <loc>https://www.bidthebay.com/project-details/2026-ross-valley-slurry-seal-project-town-of-san-anselmo/r/recyYmqGAYJE0olIx</loc>
-    <lastmod>2026-06-03T00:06:43-07:00</lastmod>
-  </url>
-  <url>
     <loc>https://www.bidthebay.com/project-details/2026-sanitary-sewer-and-storm-drain-rehabilitation-project-city-of-albany/r/recvp78JWOjQVECKq</loc>
     <lastmod>2026-08-16T22:31:44-07:00</lastmod>
   </url>
@@ -917,6 +913,10 @@
     <lastmod>2026-06-26T21:13:21-07:00</lastmod>
   </url>
   <url>
+    <loc>https://www.bidthebay.com/project-details/bethlehem-storm-drain-repair-alameda/r/recqq2XiBkQfvopRr</loc>
+    <lastmod>2026-10-28T00:01:14-07:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.bidthebay.com/project-details/betty-reid-soskin-building-300-flooring-replacement-west-contra-costa-unified-school-district/r/recnCW6MGbQQmsBpR</loc>
     <lastmod>2026-05-18T17:02:38-07:00</lastmod>
   </url>
@@ -1361,16 +1361,16 @@
     <lastmod>2026-09-03T09:14:08-07:00</lastmod>
   </url>
   <url>
-    <loc>https://www.bidthebay.com/project-details/city-hall-office-remodel-city-of-san-mateo/r/rec5jMeXXJH35ppNg</loc>
-    <lastmod>2026-07-10T03:56:08-07:00</lastmod>
-  </url>
-  <url>
     <loc>https://www.bidthebay.com/project-details/city-hall-pond-fountain-rehabilitation-project-city-of-pleasant-hill/r/recBSvOE4bUlHjZZR</loc>
     <lastmod>2026-10-15T00:04:52-07:00</lastmod>
   </url>
   <url>
     <loc>https://www.bidthebay.com/project-details/city-hall-pond-fountain-rehabilitation-project-city-of-pleasant-hill/r/recmeWmSLwZrAN2y0</loc>
     <lastmod>2026-05-28T00:14:41-07:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bidthebay.com/project-details/city-hall-veneer-rot-repair-window-replacement-walnut-creek/r/recQUF97l9eE9OfMt</loc>
+    <lastmod>2026-10-28T00:01:08-07:00</lastmod>
   </url>
   <url>
     <loc>https://www.bidthebay.com/project-details/city-of-rio-vista-storm-drain-cctv-inspection-city-of-rio-vista/r/rec2HaiIBPM1yCi4D</loc>
@@ -1555,10 +1555,6 @@
   <url>
     <loc>https://www.bidthebay.com/project-details/corporation-yard-groundwater-monitoring-wells-project-city-of-pittsburg/r/recdnc0fcySK62jsM</loc>
     <lastmod>2026-08-12T00:00:47-07:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bidthebay.com/project-details/corporation-yard-groundwater-monitoring-wells-project-city-of-pittsburg/r/recmmYJ7hEybtSHZ4</loc>
-    <lastmod>2026-05-20T17:11:52-07:00</lastmod>
   </url>
   <url>
     <loc>https://www.bidthebay.com/project-details/correct-martinez-and-mare-island-generator-fuel-lines-department-of-veterans-affairs/r/rectaMZnIkPqUmQTr</loc>
@@ -2517,8 +2513,20 @@
     <lastmod>2026-10-16T02:09:26-07:00</lastmod>
   </url>
   <url>
+    <loc>https://www.bidthebay.com/project-details/highland-es-new-portable-restroom-project-richmond/r/recMBLxDp65ZPkIZG</loc>
+    <lastmod>2026-10-28T00:01:17-07:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bidthebay.com/project-details/highlands-ranch-tank-improvement-pittsburg/r/recujXDNRmVnX9vUE</loc>
+    <lastmod>2026-10-28T00:01:10-07:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.bidthebay.com/project-details/hill-street-and-el-camino-real-hawk-crossing-city-of-belmont/r/recE1J6rV9SQdSDlP</loc>
     <lastmod>2026-06-03T00:06:49-07:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bidthebay.com/project-details/hillcrest-cool-roof-coating-oakland/r/rec1s754OlbFix2T9</loc>
+    <lastmod>2026-10-28T00:01:17-07:00</lastmod>
   </url>
   <url>
     <loc>https://www.bidthebay.com/project-details/hillsdale-boulevard-and-alameda-de-las-pulgas-traffic-signal-project-city-of-san-mateo/r/recBnKfY45LDbwBuV</loc>
@@ -2555,6 +2563,10 @@
   <url>
     <loc>https://www.bidthebay.com/project-details/hsip-cycle-11-silverado-trail-intersection-improvements-project-county-of-napa/r/rec6laCN58Sw6bK7c</loc>
     <lastmod>2026-09-25T20:51:07-07:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bidthebay.com/project-details/hsip-cycle-12-butterfield-road-pedestrian-san-anselmo/r/recpAuo53IWEzU7R7</loc>
+    <lastmod>2026-10-28T00:01:15-07:00</lastmod>
   </url>
   <url>
     <loc>https://www.bidthebay.com/project-details/hsip-cycle-12-pedestrian-safety-improvements-project-city-of-mill-valley/r/rec9c4IPmfEDvBkC2</loc>
@@ -3449,6 +3461,10 @@
     <lastmod>2026-08-21T00:04:55-07:00</lastmod>
   </url>
   <url>
+    <loc>https://www.bidthebay.com/project-details/office-rooftop-hvac-replacement-alameda/r/rec4dB1odpArzLqpp</loc>
+    <lastmod>2026-10-28T00:01:11-07:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.bidthebay.com/project-details/old-la-honda-road-drainage-improvements-project-town-of-woodside/r/recVdP8wKYu7KH5K2</loc>
     <lastmod>2026-03-24T07:12:21-07:00</lastmod>
   </url>
@@ -3785,6 +3801,10 @@
     <lastmod>2026-09-07T15:49:52-07:00</lastmod>
   </url>
   <url>
+    <loc>https://www.bidthebay.com/project-details/planning-building-environmental-pbes-remodel-napa/r/recFIGA8Bw9TLxi84</loc>
+    <lastmod>2026-10-23T11:35:43-07:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.bidthebay.com/project-details/play-striping-improvements-at-sun-valley-elementary-school-san-pedro-elementary-school-bahia-vista-elementary-school-and-glenwood-elementary-school-san-rafael-city-schools/r/recypH9wfNgT7Ok5J</loc>
     <lastmod>2026-05-13T09:30:36-07:00</lastmod>
   </url>
@@ -3867,6 +3887,10 @@
   <url>
     <loc>https://www.bidthebay.com/project-details/potable-water-reservoir-cleaning-inspection-project-2026-city-of-fairfield/r/recm0fjSEy1WdplgM</loc>
     <lastmod>2026-05-15T01:56:30-07:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bidthebay.com/project-details/potrero-del-sol-repairs-san-francisco/r/recVAbNdkecjMB3lf</loc>
+    <lastmod>2026-10-16T01:56:55-07:00</lastmod>
   </url>
   <url>
     <loc>https://www.bidthebay.com/project-details/powell-street-improvement-project-san-francisco/r/rec2FDsU9kgiNk0Ap</loc>
@@ -4717,10 +4741,6 @@
     <lastmod>2026-10-15T00:05:12-07:00</lastmod>
   </url>
   <url>
-    <loc>https://www.bidthebay.com/project-details/sobrante-water-treatment-plant-clarifiers-replacement-east-bay-municipal-utility-district/r/recpBBbErr7wuaV9H</loc>
-    <lastmod>2026-07-10T03:16:04-07:00</lastmod>
-  </url>
-  <url>
     <loc>https://www.bidthebay.com/project-details/soccer-scoreboard-project-at-las-positas-college-chabot-las-positas-community-college-district/r/recNB4PWcPbWlhQxs</loc>
     <lastmod>2026-08-25T10:20:39-07:00</lastmod>
   </url>
@@ -5391,10 +5411,6 @@
   <url>
     <loc>https://www.bidthebay.com/project-details/various-locations-pavement-renovation-no-89-and-sewer-replacement-san-francisco-department-of-public-works/r/rec04vk2HQWCudCKt</loc>
     <lastmod>2026-09-07T11:37:33-07:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bidthebay.com/project-details/various-locations-sewer-replacement-no-23-san-francisco-public-utilities-commission/r/recIuqpjsN7eEJsOC</loc>
-    <lastmod>2026-05-29T00:02:13-07:00</lastmod>
   </url>
   <url>
     <loc>https://www.bidthebay.com/project-details/various-plant-plumbing-improvements-project-vallejo-flood-wastewater-district/r/recROL56gzvu58rbA</loc>
