@@ -1,49 +1,48 @@
 {
-  "generatedAt": "2026-11-06T21:15:33.059Z",
-  "urlCount": 1947,
+  "generatedAt": "2026-11-07T21:15:36.181Z",
+  "urlCount": 1946,
   "report": {
-    "startedAt": "2026-11-06T21:15:33.059Z",
-    "finishedAt": "2026-11-06T21:15:38.241Z",
+    "startedAt": "2026-11-07T21:15:36.181Z",
+    "finishedAt": "2026-11-07T21:15:41.262Z",
     "totalAirtableRecords": 2773,
-    "includedUrls": 1947,
-    "constructionOpen": 207,
-    "constructionResults": 1438,
-    "professionalOpen": 49,
-    "professionalResults": 253,
+    "includedUrls": 1946,
+    "constructionOpen": 199,
+    "constructionResults": 1445,
+    "professionalOpen": 48,
+    "professionalResults": 254,
     "staticUrls": 9,
     "agencyUrls": 279,
     "agencyPagesLive": true,
     "legacySitemapsWritten": false,
-    "excludedRecords": 826,
+    "excludedRecords": 827,
     "exclusionsByReason": {
-      "closed_stale_no_results": 822,
+      "closed_stale_no_results": 823,
       "unsupported_party_type": 4
     },
     "inclusionsByReason": {
-      "recently_closed": 756,
+      "recently_closed": 763,
       "award_results": 892,
-      "open_solicitation": 245,
+      "open_solicitation": 237,
       "multi_category_provisional_construction": 54
     },
     "multiCategoryExceptions": 54,
     "slugLengths": {
       "median": 64,
       "max": 233,
-      "over80": 537
+      "over80": 536
     },
     "seoFlagCounts": {
       "No description at all": 153,
       "Unroutable party type": 5,
-      "Results posted but no winner": 2,
-      "Open but due date passed": 4
+      "Results posted but no winner": 2
     },
-    "seoFlagUpdatesQueued": 6,
+    "seoFlagUpdatesQueued": 4,
     "seoFlagChoicesMissingFromField": {},
     "seoFlagFieldPresent": true,
     "seoFlagFieldName": "SEO:Flag",
-    "addedUrls": 14,
-    "removedUrls": 6,
-    "previousUrlCount": 1939,
+    "addedUrls": 0,
+    "removedUrls": 1,
+    "previousUrlCount": 1947,
     "missingRequiredFields": [],
     "validationFailures": [],
     "published": false
@@ -1136,7 +1135,6 @@
     "https://www.bidthebay.com/project-details/kennedy-hs-painting-and-frontage-improvements-fremont-unified-school-district/r/recY7wOBtyPKDCoVY",
     "https://www.bidthebay.com/project-details/2026-morgan-hill-water-main-replacement-project-morgan-hill/r/recY9VK19W114KXUP",
     "https://www.bidthebay.com/project-details/large-trash-capture-device-installation-phase-vii-san-jose/r/recYA1xYMrfDLxRBJ",
-    "https://www.bidthebay.com/project-details/rectangular-rapid-flashing-beacon-and-fire-station-advance-warning-system-upgrade-project-city-of-suisun-city/r/recYBzIVp6t1F3zzZ",
     "https://www.bidthebay.com/project-details/seal-cove-landslide-surficial-surveying-and-monitoring-services-county-of-san-mateo/r/recYCreKwzTYvhuWk",
     "https://www.bidthebay.com/project-details/district-office-hvac-roofing-and-switchgear-replacement-project-san-mateo-foster-city-school-district/r/recYI6WNFzCcxmcGl",
     "https://www.bidthebay.com/project-details/as-needed-large-diameter-sewer-inspection-no-1-san-francisco-public-utilities-commission/r/recYIeCAU4iC2lJJq",
