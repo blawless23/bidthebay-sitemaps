@@ -1,49 +1,48 @@
 {
-  "generatedAt": "2026-11-13T21:16:03.556Z",
-  "urlCount": 1931,
+  "generatedAt": "2026-11-14T21:16:42.079Z",
+  "urlCount": 1930,
   "report": {
-    "startedAt": "2026-11-13T21:16:03.556Z",
-    "finishedAt": "2026-11-13T21:16:09.496Z",
+    "startedAt": "2026-11-14T21:16:42.079Z",
+    "finishedAt": "2026-11-14T21:16:47.283Z",
     "totalAirtableRecords": 2800,
-    "includedUrls": 1931,
-    "constructionOpen": 184,
-    "constructionResults": 1446,
-    "professionalOpen": 49,
-    "professionalResults": 252,
+    "includedUrls": 1930,
+    "constructionOpen": 179,
+    "constructionResults": 1450,
+    "professionalOpen": 46,
+    "professionalResults": 255,
     "staticUrls": 9,
     "agencyUrls": 279,
     "agencyPagesLive": true,
     "legacySitemapsWritten": false,
-    "excludedRecords": 869,
+    "excludedRecords": 870,
     "exclusionsByReason": {
-      "closed_stale_no_results": 865,
+      "closed_stale_no_results": 866,
       "unsupported_party_type": 4
     },
     "inclusionsByReason": {
-      "recently_closed": 746,
+      "recently_closed": 753,
       "award_results": 907,
-      "open_solicitation": 225,
+      "open_solicitation": 217,
       "multi_category_provisional_construction": 53
     },
     "multiCategoryExceptions": 53,
     "slugLengths": {
       "median": 63,
       "max": 233,
-      "over80": 520
+      "over80": 519
     },
     "seoFlagCounts": {
       "No description at all": 153,
       "Unroutable party type": 5,
-      "Results posted but no winner": 2,
-      "Open but due date passed": 1
+      "Results posted but no winner": 2
     },
-    "seoFlagUpdatesQueued": 3,
+    "seoFlagUpdatesQueued": 1,
     "seoFlagChoicesMissingFromField": {},
     "seoFlagFieldPresent": true,
     "seoFlagFieldName": "SEO:Flag",
-    "addedUrls": 8,
-    "removedUrls": 0,
-    "previousUrlCount": 1923,
+    "addedUrls": 0,
+    "removedUrls": 1,
+    "previousUrlCount": 1931,
     "missingRequiredFields": [],
     "validationFailures": [],
     "published": false
@@ -442,7 +441,6 @@
     "https://www.bidthebay.com/project-details/design-build-services-for-the-wayfinding-enhancement-program-phase-2-paint-san-francisco-international-airport-sfo/r/recCSQV19Lh8bgszR",
     "https://www.bidthebay.com/project-details/mcglashan-pathway-repair-county-of-marin/r/recCTIBAVtuOfeCnt",
     "https://www.bidthebay.com/project-details/oyster-point-sanitary-sewer-pump-south-san-francisco/r/recCVHMYT6ILiSwEe",
-    "https://www.bidthebay.com/project-details/routine-and-non-routine-water-pumps-services-in-santa-clara-county-cal-trans-district-4/r/recCWSvmTyACd3aKs",
     "https://www.bidthebay.com/project-details/commercial-industrial-battery-energy-storage-pilot-various/r/recCWtxdCWJiZZNYS",
     "https://www.bidthebay.com/project-details/on-call-clear-path-sidewalk-project-horizontal-concrete-saw-cutting-and-shaving-project-city-of-san-bruno/r/recCYRayNOyMGpd5R",
     "https://www.bidthebay.com/project-details/cctv-pipeline-inspection-hydro-flushing-jetting-services-south-san-francisco-unified-school-district/r/recCa8XDMf7jLrgwT",
