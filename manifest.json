@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-20T21:16:44.388Z",
+  "generatedAt": "2026-11-21T21:15:12.000Z",
   "urlCount": 1940,
   "report": {
-    "startedAt": "2026-11-20T21:16:44.388Z",
-    "finishedAt": "2026-11-20T21:16:49.705Z",
+    "startedAt": "2026-11-21T21:15:12.000Z",
+    "finishedAt": "2026-11-21T21:15:17.101Z",
     "totalAirtableRecords": 2840,
     "includedUrls": 1940,
-    "constructionOpen": 162,
-    "constructionResults": 1474,
-    "professionalOpen": 47,
-    "professionalResults": 257,
+    "constructionOpen": 160,
+    "constructionResults": 1476,
+    "professionalOpen": 43,
+    "professionalResults": 261,
     "staticUrls": 9,
     "agencyUrls": 279,
     "agencyPagesLive": true,
@@ -20,9 +20,9 @@
       "unsupported_party_type": 4
     },
     "inclusionsByReason": {
-      "recently_closed": 763,
-      "open_solicitation": 200,
-      "award_results": 924,
+      "recently_closed": 767,
+      "open_solicitation": 195,
+      "award_results": 925,
       "multi_category_provisional_construction": 53
     },
     "multiCategoryExceptions": 53,
@@ -34,16 +34,15 @@
     "seoFlagCounts": {
       "No description at all": 153,
       "Unroutable party type": 5,
-      "Results posted but no winner": 2,
-      "Open but due date passed": 1
+      "Results posted but no winner": 2
     },
-    "seoFlagUpdatesQueued": 3,
+    "seoFlagUpdatesQueued": 1,
     "seoFlagChoicesMissingFromField": {},
     "seoFlagFieldPresent": true,
     "seoFlagFieldName": "SEO:Flag",
-    "addedUrls": 14,
-    "removedUrls": 1,
-    "previousUrlCount": 1927,
+    "addedUrls": 0,
+    "removedUrls": 0,
+    "previousUrlCount": 1940,
     "missingRequiredFields": [],
     "validationFailures": [],
     "published": false
